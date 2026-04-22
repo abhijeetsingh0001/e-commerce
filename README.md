@@ -1,2 +1,4 @@
 # e-commerce
-e commerce site with frontend
+E-commerce site with frontend
+using html,css,javascript.
+
