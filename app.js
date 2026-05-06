@@ -2,7 +2,7 @@
 // MAVN — E-Commerce JavaScript
 // ===========================
  
-// ---- PRODUCT DATA ----
+// ----- PRODUCT DATA -----
 const products = [
   { id: 1, name: 'Canvas Tote Bag',      category: 'bags',        price: 48,  emoji: '🎒', tag: 'new'  },
   { id: 2, name: 'Leather Crossbody',    category: 'bags',        price: 125, emoji: '👜', tag: 'hot'  },
